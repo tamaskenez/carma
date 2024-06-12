@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.8.0] - 2024-06-12
+
+### Changes
+
+* Adds support for Numpy v2
+* BREAKING Minimum Pybind11 version is 2.12.0
+
 ## [0.7.0] - 2024-03-27
 
 ### Changes
