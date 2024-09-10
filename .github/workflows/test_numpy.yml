@@ -72,7 +72,7 @@ jobs:
             cxx: "g++-11",
             generators: "Ninja",
             target: "all",
-            numpy: "numpy==2.0.0rc1",
+            numpy: "numpy>=2.1.1",
             python-version: "3.11"
           }
 
